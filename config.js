@@ -41,7 +41,7 @@ global.APIKeys = { // APIKey Here
 //cari apikey sendiri ya gaes yak
 
 // Sticker WM
-global.stiker_wait = 'Stiker sedang dibuat'
+global.stiker_wait = ''
 global.packname = 'Created By'
 global.author = `© karyl-bot`
 global.wm = 'karyl-bot'
