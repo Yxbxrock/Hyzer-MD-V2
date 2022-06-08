@@ -430,8 +430,8 @@ module.exports = {
                     isBanned: false,
                     welcome: true,
                     detect: false,
-                    sWelcome: '',
-                    sBye: '',
+                    sWelcome: 'Hai, Selamat datang di group\n@subject\n\n@desc',
+                    sBye: 'selamat tinggal!',
                     sPromote: '',
                     sDemote: '',
                     delete: true,
@@ -708,7 +708,7 @@ module.exports = {
                         } finally {
                             text = (action === 'add' ? (chat.sWelcome || this.welcome || conn.welcome || 'Yah,si Beban Masuk Grup').replace('@subject', groupMetadata.subject).replace('@desc', groupMetadata.desc.toString()) :
                                 (chat.sBye || this.bye || conn.bye || 'Sip, Beban Berkurang 1'))
-                                this.sendButtonLoc(id, await(await fetch(pp)).buffer(), text, '', "ok", "huuu", null)
+                                this.sendButtonLoc(id, await(await fetch(pp)).buffer(), text, '', "Y", "huuu", null)
                                 }
                     }
                 }
