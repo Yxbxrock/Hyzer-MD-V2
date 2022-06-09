@@ -12,6 +12,6 @@ handler.command = /^(waifunsfw)$/i
 
 handler.limit = true
 handler.nsfw = true
-handler.premium = true
+handler.private = true
 
 module.exports = handler
