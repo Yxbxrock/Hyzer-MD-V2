@@ -3,7 +3,7 @@
 let handler = async m => m.reply(`
 ╭═════════════════
 ║   𝐆𝐑𝐎𝐔𝐏 𝐎𝐅𝐅𝐈𝐂𝐈𝐀𝐋
-║https://chat.whatsapp.com/BYcW7rue6fA8gNdyLPedDe
+║https://chat.whatsapp.com/BjLIOy9kDZ4HQJawOiX4mh
 ╰══════════════════
 
 `.trim()) 
