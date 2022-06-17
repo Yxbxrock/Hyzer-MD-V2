@@ -431,7 +431,7 @@ module.exports = {
                     welcome: true,
                     detect: false,
                     sWelcome: 'Hai,Selamat datang di group\n@subject\n\n@desc',
-                    sBye: 'selamat tinggal!',
+                    sBye: '',
                     sPromote: '',
                     sDemote: '',
                     delete: true,
