@@ -43,7 +43,7 @@ global.APIKeys = { // APIKey Here
 // Sticker WM
 global.stiker_wait = ''
 global.packname = 'Created By'
-global.author = `© karyl-bot`
+global.author = `KarylBot`
 global.wm = 'karyl-bot'
 global.watermark = wm
 global.media = 'https://telegra.ph/file/72168c6f1aaa90315c369.jpg'
