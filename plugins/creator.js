@@ -14,7 +14,7 @@ const q = {
 	"participant": "0@s.whatsapp.net"
 }
 
-conn.sendContact(m.chat, '6282365089294', 'frmndaa', m)
+conn.sendContact(m.chat, '6282365089294', 'owner Karyl Bot', m)
 m.reply(m.chat,'*itu nomor owner ku*', q)
 }
 handler.help = ['owner', 'creator']
